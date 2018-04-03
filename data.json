@@ -1,0 +1,20 @@
+{
+  "career":{
+    "info":"myown company"
+  },
+  "education":[
+    {
+      "degree":"ssc",
+      "school":"ravindra bharathi",
+      "data":["2012","90%"]
+      },{
+        "degree":"intermediate",
+        "college":"narayana",
+        "data":["2015","70%"]
+        },{
+          "degree":"btech",
+          "college":"vidyanikethan",
+          "data":["2019","80%"]
+        }
+  ]
+}
