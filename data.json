@@ -7,14 +7,36 @@
       "degree":"ssc",
       "school":"ravindra bharathi",
       "data":["2012","90%"]
-      },{
+      },
+      {
         "degree":"intermediate",
-        "college":"narayana",
+        "school":"narayana",
         "data":["2015","70%"]
-        },{
+        },
+        {
           "degree":"btech",
-          "college":"vidyanikethan",
+          "school":"vidyanikethan",
           "data":["2019","80%"]
         }
+  ],
+  "skills":[
+    {
+      "name":"operating system",
+      "info":["widows","linux","macos"]
+    },
+    {
+      "name":"languages",
+      "info":["c","c++","java","html"]
+    },{
+      "name":"databases",
+      "info":["oracle","mysql","postgresql"]
+      },{
+        "name":"web technologies",
+        "info":["html","java script","css"]
+      },
+      {
+        "name":"frameworks",
+        "info":["angularjs","react.js","ruby on rails"]
+      }
   ]
 }
